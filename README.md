@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Forecasting CO2 Emissions of Vehicles**
 
-- 🌱 I’m currently learning **Java, Azure fundamentals**
+- 🌱 I’m currently learning **Java, Deveops with AWS**
 
 - 📫 How to reach me **ganeshreddyalla@gmail.com**
 
